@@ -1,0 +1,1 @@
+declare module "authRemote/AuthApp"; declare module "dashboardRemote/DashboardApp"; declare module "usersRemote/UsersApp"; declare module "analyticsRemote/AnalyticsApp"; declare module "notificationsRemote/NotificationsApp";
